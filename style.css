@@ -1,0 +1,160 @@
+.contact{
+    background-color: rgba(123, 180, 202, 0.941);
+    padding: 10px;
+    color: aliceblue;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline;
+    padding: 5px;
+}
+ul{
+    display: inline;
+}
+li:hover{
+    color: skyblue;
+    background-color: rgba(240, 248, 255, 0.968);
+    cursor: pointer;
+}
+.one:hover{
+    color:rgb(53, 107, 130)
+}
+.two:hover{
+    color:rgb(53, 107, 130)}
+
+      
+
+.three:hover{
+    color:rgb(53, 107, 130)
+}
+.header{
+    background-color: rgb(191, 227, 241);
+}
+h3,h2{
+    display: inline;
+    text-align: center;
+    color: rgb(52, 189, 173);
+    
+}
+input{
+    
+    padding: 5px;
+    width: 100px;
+}
+h3:hover{
+    color: rgb(31, 158, 156);
+    cursor: pointer;
+}
+img{
+    display: inline;
+    border-style: ridge;
+    
+    border-width: 5px;
+    border-color: rgb(34, 132, 152);
+}
+.pi{
+     position: absolute;
+     top:50%;
+     left: 50%;
+     transform: translate(-50%,-50%);
+     color: rgb(9, 102, 113);
+}
+.pp{
+    position: absolute;
+     top:65%;
+     left: 60%;
+     transform: translate(-70%,-70%);
+    color: rgb(6, 66, 90);
+    text-align: center;
+}
+h4{
+    position: absolute;
+     top:100%;
+     left: 10%;
+     transform: translate(-70%,-70%);
+    color: rgb(6, 66, 90);
+    text-align: center;
+    border-color: rgb(37, 165, 224);
+    border-style: ridge;
+    background-color: rgba(0, 234, 255, 0.304);
+    cursor: pointer;
+}
+.pp:hover{
+    color:rgb(106, 23, 106)}
+.pi:hover{
+    color:rgb(106, 23, 106)}
+h4:hover{
+    background-color: rgba(0, 204, 255, 0.74);
+}
+.more{
+    
+    position: absolute;
+     top:75%;
+     left: 50%;
+     transform: translate(-70%,-70%);
+    color: rgb(6, 66, 90);
+    text-align: center;
+    border-color: rgb(37, 165, 224);
+    border-style: ridge;
+    background-color: rgba(0, 234, 255, 0.304);
+}
+.more:hover{
+    background-color: rgba(0, 204, 255, 0.74);
+    cursor: grab;
+}
+.qualities{
+    padding: 10px;
+    text-align: center;
+    
+}
+h6{
+    
+    display: inline-block;
+    
+    
+}
+.box3{
+    display:  inline-block;
+    border-style: double;
+    border-color:  rgb(34, 132, 152);
+    width: 200px;
+    height: 100px;
+}
+.box2{
+    display:  inline-block;
+    border-style: double;
+    border-color:  rgb(34, 132, 152);
+    width: 200px;
+    height: 100px;
+    margin-right:270px ;
+}
+.box{
+    display:  inline-block;
+    width: 200px; 
+    height: 100px;
+    border-style: double;
+    border-color:  rgb(34, 132, 152);
+    margin-right: 280px;  
+}
+h1{
+    text-align: center;
+    color: rgba(61, 173, 202, 0.9);
+}
+.aboutus{
+    
+    background-color: rgb(45, 131, 172);
+    
+   padding: 10px;
+}
+.service{
+    background-color: rgb(109, 178, 210);
+    padding: 5px;
+}
+p{
+    color: rgba(6, 100, 105, 0.82);
+    display:  inline;
+    padding: 6px;
+}
